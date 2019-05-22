@@ -62,7 +62,7 @@ class Inicio extends Component {
                   </BannerArea>
                   <BotoesArea>
                       <BotaoItem to="/area-aluno">Área do Aluno</BotaoItem>
-                      <BotaoItem to="/area-docente" className="border-top border-bottom">Área do Docente</BotaoItem>
+                      <BotaoItem to="/area-docente">Área do Docente</BotaoItem>
                       <BotaoItem to="/area-visitante">Área do Visitante</BotaoItem>
                     </BotoesArea>     
                 </div>
